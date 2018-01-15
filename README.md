@@ -1,2 +1,3 @@
-# s2l
-Seeing to Learn : Implementing observation learning in robotics 
+# Seeing to learn : Project site 
+
+This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
