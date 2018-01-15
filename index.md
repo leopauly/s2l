@@ -2,8 +2,8 @@
 layout: single
 author_profile: true
 comments: #true
-#header:
-#  image: /assets/images/trees.jpg
+header:
+  image: /assets/images/trees.jpg
 ---
 
 <font face="times" size="4" line-height:10>
