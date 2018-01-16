@@ -7,6 +7,7 @@ permalink: /my_docs/team
 ---
 
 
-- Leo Pauly
+<img src="leo.jpg" alt="Mountain View">
+<a href="https://leopauly.github.io">Leo Pauly</a>
 - Prof. David Hogg
 - Dr. Raul Fuentes
