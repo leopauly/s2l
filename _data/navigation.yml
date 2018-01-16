@@ -1,26 +1,13 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #- title: "About"
-  #  url: /my_docs/about
-  #- title: "Research"
-  #  url: /my_docs/research
-  - title: "Publications"
-    url: /my_docs/publications
-  - title: "Team"
-    url: /my_docs/team
-  - title: "Downloads"
-    url: /my_docs/downloads
+
+  #- title: "Publications"
+  #  url: /my_docs/publications
+  #- title: "Team"
+  #  url: /my_docs/team
+  #- title: "Downloads"
+  #  url: /my_docs/downloads
   - title: "Opportunities"
     url: /my_docs/opportunities
-  - title: "Press"
-    url: /my_docs/press
-  #- title: "Blog"
-  #  url: /my_docs/blog
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  #- title: "Press"
+  #  url: /my_docs/press
