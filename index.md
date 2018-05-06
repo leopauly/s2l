@@ -53,7 +53,7 @@ Demo
 </figure>
 
 <figure>
- <img src="ex1ep115.gif" style="width:300px;height:300px;" alt="@leopauly">
+ <img src="ex1ep115_v2.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 115
  </figcaption>
@@ -67,7 +67,6 @@ Demo
 Demo
  </figcaption>
 </figure>
-<figure>
   
 <figure>
  <img src="ex2ep1.gif" style="width:300px;height:300px;" alt="@leopauly">
