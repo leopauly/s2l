@@ -43,42 +43,47 @@ Seeing to learn (S2l) is an ambitious computer vision-robotics project currently
  <figcaption>
 Demo
  </figcaption>
- </figure>
+</figure>
 <figure>
+  
 <figure>
  <img src="ex1ep1.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 1
  </figcaption>
- </figure>
+</figure>
+
 <figure>
  <img src="ex1ep115.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 115
  </figcaption>
- </figure>
+</figure>
 
 
-<h4><b> Experiment 1: Pushing object to target </b></h4>
+<h4><b> Experiment 2: Pushing object to target </b></h4>
 <figure>
  <img src="ex2demo1.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
 Demo
  </figcaption>
- </figure>
+</figure>
 <figure>
+  
 <figure>
  <img src="ex2ep1.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 1
  </figcaption>
- </figure>
+</figure>
+ 
 <figure>
  <img src="ex2ep180.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 115
  </figcaption>
- </figure>
+</figure>
+ 
  <figure>
  <img src="ex2ep320.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
