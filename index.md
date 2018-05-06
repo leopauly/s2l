@@ -32,9 +32,14 @@ Seeing to learn (S2l) is an ambitious computer vision-robotics project currently
 </font>
 
 # Results 
-## <u> Stage 1 </u>
 <font face="times" size="4" line-height:10>
 <p align="justify">
+  
+## <u> Stage 1 </u>
+#### Experiment 1: Reaching a target
+
+#### Experiment 2: Pushing object to target
+
 
 
 
