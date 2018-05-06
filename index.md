@@ -31,6 +31,17 @@ Seeing to learn (S2l) is an ambitious computer vision-robotics project currently
 </p>
 </font>
 
+# Results 
+## <u> Stage 1 </u>
+<font face="times" size="4" line-height:10>
+<p align="justify">
+
+
+
+</p>
+</font>
+
+
 # Publications
 <font face="times" size="4">
 [1] Leo Pauly, Defining the problem of observation Learning,<i> Technical report</i>, 2017.<br />
