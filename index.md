@@ -78,14 +78,14 @@ Demo
 <figure>
  <img src="ex2ep180.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
- Episode 115
+ Episode 180
  </figcaption>
 </figure>
  
  <figure>
  <img src="ex2ep320.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
- Episode 115
+ Episode 320
  </figcaption>
  </figure>
 
