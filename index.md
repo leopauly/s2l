@@ -37,7 +37,7 @@ Seeing to learn (S2l) is an ambitious computer vision-robotics project currently
   
 ## <u> Stage 1 </u>
 #### Experiment 1: Reaching a target
-<img src="pixname.gif" alt="animated" />
+<img src="ex1ep1.gif" alt="animated" />
 
 #### Experiment 2: Pushing object to target
 
