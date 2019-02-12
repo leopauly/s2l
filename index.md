@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: splash
+author_profile: false
 comments: #true
 header:
   image: /assets/images/obs6.png
@@ -20,23 +20,42 @@ width: 30px;
       }
 </style>
 
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
 
-
-# About
-<font face="times" size="4" line-height:10>
+<font face="Georgia" size="4" line-height:10>
 <p align="justify">
-Seeing to learn (S2l) is an ambitious computer vision-robotics project currently ongoing at University of Leeds, which is aimed at developing advanced observation learning methods for robotics systems. It addresses the inability of current robotic systems to learn from human demonstrations. The project envisions a future where robots could acquire new skills by just observing humans perform a task or even by watching online tutorial videos of demonstrations. In future the robots equipped with these learning methods could be applied in several real world conditions ranging from home to work environments such as construction sites where it could learn to perform the relevant tasks of drilling holes, hammering nails or screwing a bolt just by observing other workers.
-
-
+Seeing to learn (S2l) is an computer vision-robotics project currently ongoing at University of Leeds, which is aimed at developing  observation learning methods for robotics systems. It addresses the inability of current robotic systems to learn from human demonstrations. The project envisions a future where robots could acquire new skills by just observing humans perform a task or even by watching online tutorial videos of demonstrations. In future the robots equipped with these learning methods could be applied in several real world conditions ranging from home to work environments such as construction sites where it could learn to perform the relevant tasks of drilling holes, hammering nails or screwing a bolt just by observing other workers.
 </p>
 </font>
 
-# Results
-### Stage 1
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
 
-<font face="times" size="4" line-height:10>
+<font face="Georgia" size="4" line-height:10>
+<p align="centre"><h2> One shot observation learning using visual activity features </h2></p>
+<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
+<h4><b>Abstract: </b> </h4>
 <p align="justify">
- 
+Observation learning is the process of learning
+a task by observing an expert demonstrator. We present a
+robust observation learning method for robotic systems. Our
+principle contributions are in introducing a one shot learning
+method where only a single demonstration is needed for
+learning and in proposing a novel feature extraction method
+for extracting unique activity features from the demonstration.
+Reward values are then generated from these demonstrations.
+We use a learning algorithm with these rewards to learn the
+controls for a robotic manipulator to perform the demonstrated
+task. With simulation and real robot experiments, we show
+that the proposed method can be used to learn tasks from
+a single demonstration under varying conditions of viewpoints,
+object properties, morphology of manipulators and scene backgrounds.
+</p>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+
 <h4><b> Experiment 1: Reaching a target</b> </h4>
 <figure>
  <img src="ex1demo1.gif" style="width:300px;height:300px;" alt="@leopauly">
@@ -44,7 +63,7 @@ Seeing to learn (S2l) is an ambitious computer vision-robotics project currently
 Demo
  </figcaption>
 </figure>
-  
+
 <figure>
  <img src="ex1ep1.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
@@ -59,7 +78,9 @@ Demo
  </figcaption>
 </figure>
 
+<!--- ---------------------------------------------------------------------------------------- ---->
 
+<!---
 <h4><b> Experiment 2: Pushing object to target </b></h4>
 <figure>
  <img src="ex2demo1.gif" style="width:300px;height:300px;" alt="@leopauly">
@@ -67,41 +88,173 @@ Demo
 Demo
  </figcaption>
 </figure>
-  
+
 <figure>
  <img src="ex2ep1.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 1
  </figcaption>
 </figure>
- 
+
 <figure>
  <img src="ex2ep180.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 180
  </figcaption>
 </figure>
- 
+
  <figure>
  <img src="ex2ep320.gif" style="width:300px;height:300px;" alt="@leopauly">
  <figcaption>
  Episode 320
  </figcaption>
  </figure>
+--->
+<!--- ---------------------------------------------------------------------------------------- ---->
 
-</p>
+<h4><b> Experiment 2: Pushing object to target</b> </h4>
+
+
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Execution</th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Execution</th>
+
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+  </tr>
+
+  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Execution</th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Execution</th>
+
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+
+
+  </tr>
+
+  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Execution</th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+
+
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     Episode 180
+     </figcaption>
+    </figure></td>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+
+  </tr>
+
+</table>
+
+
 </font>
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
 
-
-# Publications
-<font face="times" size="4">
+<h2><b>Publications</b></h2>
+<font face="Georgia" size="4">
 [1] Leo Pauly, Defining the problem of observation Learning,<i> Technical report</i>, 2017.<br />
 <a href="https://drive.google.com/file/d/1TPxOV8adXXPeNl-6EnOGRXV8xhcQ_CTN/view?usp=sharing"> |Download|</a> <br />
 <br />
 </font>
 
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
 
-# Team
+<font face="Georgia" size="4" line-height:10>
+<h2><b>Team</b></h2>
 <div>
 <center>
 
@@ -145,11 +298,14 @@ Demo
  </figure>
 </center>
 </div>
+</font>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
 
 
-
-# Downloads
-<font face="times" size="4" line-height:10>
+<h2><b>Downloads</b></h2>
+<font face="Georgia" size="4" line-height:10>
 <p>
 The <b>code</b> and <b>datasets</b> being used in this project will be made available soon.
 </p>
