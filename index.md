@@ -245,8 +245,11 @@ Demo
 
 <h2><b>Publications</b></h2>
 <font face="Georgia" size="4">
-[1] Leo Pauly, Defining the problem of observation Learning,<i> Technical report</i>, 2017.<br />
-<a href="https://drive.google.com/file/d/1TPxOV8adXXPeNl-6EnOGRXV8xhcQ_CTN/view?usp=sharing"> |Download|</a> <br />
+[1] Leo Pauly, Defining the problem of observation Learning,<i> Technical report</i>, 2017.
+<a href="https://arxiv.org/abs/1808.08288"> [report]</a> <br/>
+[2]Leo Pauly, Wisdom C. Agboh, Mohamed Abdellatif, David C. Hogg, Raul Fuentes
+“One-Shot Observation Learning”, IROS 2018 Workshop: Examining Sensing Modalities for Robust and Dextrous Object Manipulation, Poster, 2018.<a href="https://drive.google.com/file/d/1Qcefjk-wpXmw_ZhvmkoG6O9jX6CchDGU/view?usp=sharing" >[poster]</a><br/>
+
 <br />
 </font>
 
