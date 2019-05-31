@@ -32,9 +32,9 @@ Seeing to learn (S2l) is an computer vision-robotics project currently ongoing a
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
+
+<p align="centre"><h3> One shot observation learning using visual activity features </h3></p>
 <font face="Georgia" size="4" line-height:10>
-<p align="centre"><h2> One shot observation learning using visual activity features </h2></p>
-<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
 <h4><b>Abstract: </b> </h4>
 <p align="justify">
 Observation learning is the process of learning
@@ -50,7 +50,7 @@ controls for a robotic manipulator to perform the demonstrated
 task. With simulation and real robot experiments, we show
 that the proposed method can be used to learn tasks from
 a single demonstration under varying conditions of viewpoints,
-object properties, morphology of manipulators and scene backgrounds.
+object properties, morphology of manipulators and scene backgrounds.<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
 </p>
 
 <!--- ---------------------------------------------------------------------------------------- ----
@@ -79,7 +79,7 @@ Demo
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<h4><b> Experiment 1: Reaching a target</b> </h4>
+<h4><b> Experiment 1: Reaching a target (Simulation)</b> </h4>
 
 
 <table style="display:inline-block; border:10px; !important">
@@ -172,11 +172,108 @@ Demo
 </table>
 
 
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+<h4><b> Experiment 2: Pushing an object (Simulation)</b> </h4>
+
+
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - Obj1</th>
+    <th style="text-align:center">Learned execution - Obj2</th>
+    <th style="text-align:center">Learned execution - BG</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="Demo_push_0deg.gif" style="width:150px;height:150px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp2.Prop.V1.r3e03_new.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="E2C1prop.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="prop_c2_black.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="E2B0prop.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+
+  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+    <th> &emsp; </th>
+
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- M</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="Demo_push_180deg.gif" style="width:150px;height:150px;" align="middle"></center>
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="prop_v1_run0_ep6.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+
+
+     <th> &emsp; </th>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="Demo_push_0deg)huma.gif" style="width:150px;height:150px;" align="middle"></center>
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp2.Porposed.M1.r3.e14.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+  </tr>
+
+</table>
+
+
 </font>
+
+
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<h2><b>Publications</b></h2>
+<h3><b>Publications</b></h3>
 <font face="Georgia" size="4">
 [1] Leo Pauly, Defining the problem of observation Learning,<i> Technical report</i>, 2017.
 <a href="https://arxiv.org/abs/1808.08288"> [report]</a> <br/>
@@ -189,8 +286,8 @@ Demo
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
+<h3><b>Team</b></h3>
 <font face="Georgia" size="4" line-height:10>
-<h2><b>Team</b></h2>
 <div>
 <center>
 
@@ -240,7 +337,7 @@ Demo
 <!--- ---------------------------------------------------------------------------------------- ---->
 
 
-<h2><b>Downloads</b></h2>
+<h3><b>Downloads</b></h3>
 <font face="Georgia" size="4" line-height:10>
 <p>
 The <b>code</b> and <b>datasets</b> being used in this project will be made available soon.
