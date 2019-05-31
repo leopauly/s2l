@@ -53,8 +53,7 @@ a single demonstration under varying conditions of viewpoints,
 object properties, morphology of manipulators and scene backgrounds.
 </p>
 
-<!--- ---------------------------------------------------------------------------------------- ---->
-
+<!--- ---------------------------------------------------------------------------------------- ----
 
 <h4><b> Experiment 1: Reaching a target</b> </h4>
 <figure>
@@ -80,39 +79,7 @@ Demo
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<!---
-<h4><b> Experiment 2: Pushing object to target </b></h4>
-<figure>
- <img src="ex2demo1.gif" style="width:300px;height:300px;" alt="@leopauly">
- <figcaption>
-Demo
- </figcaption>
-</figure>
-
-<figure>
- <img src="ex2ep1.gif" style="width:300px;height:300px;" alt="@leopauly">
- <figcaption>
- Episode 1
- </figcaption>
-</figure>
-
-<figure>
- <img src="ex2ep180.gif" style="width:300px;height:300px;" alt="@leopauly">
- <figcaption>
- Episode 180
- </figcaption>
-</figure>
-
- <figure>
- <img src="ex2ep320.gif" style="width:300px;height:300px;" alt="@leopauly">
- <figcaption>
- Episode 320
- </figcaption>
- </figure>
---->
-<!--- ---------------------------------------------------------------------------------------- ---->
-
-<h4><b> Experiment 2: Pushing object to target</b> </h4>
+<h4><b> Experiment 1: Reaching a target</b> </h4>
 
 
 <table style="display:inline-block; border:10px; !important">
@@ -120,42 +87,42 @@ Demo
   <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Execution</th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Execution</th>
-
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - Obj1</th>
+    <th style="text-align:center">Learned execution - Obj2</th>
+    <th style="text-align:center">Learned execution - BG</th>
   </tr>
 
   <tr>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
+     <center><img style="display:block" src="demo_reach_0deg_new.gif" style="width:150px;height:150px;" align="middle"></center>
      <figcaption>
-     Episode 180
      </figcaption>
     </figure></td>
+
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <img src="Exp1.V1.Proposed.r2.e14_new.gif" style="width:150px;height:150px;" align="middle">
      <figcaption>
-     Episode 180
      </figcaption>
     </figure></td>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
+
+
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <img src="Exp1.Prop.C1.r2.e02_new.gif" style="width:150px;height:150px;" align="middle">
      <figcaption>
-     Episode 180
      </figcaption>
     </figure></td>
+
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <img src="Exp1.prop.C2.r3e07_new.gif" style="width:150px;height:150px;" align="middle">
      <figcaption>
-     Episode 180
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp1.prop.B1.r1e19_new.gif" style="width:150px;height:150px;" align="middle">
+     <figcaption>
      </figcaption>
     </figure></td>
   </tr>
@@ -163,77 +130,43 @@ Demo
   <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Execution</th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Execution</th>
+    <th style="text-align:center">Learned execution- V2</th>
+    <th> &emsp; </th>
 
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- M</th>
   </tr>
 
   <tr>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
+     <center><img style="display:block" src="demo_reach_180deg_new.gif" style="width:150px;height:150px;" align="middle"></center>
      <figcaption>
-     Episode 180
+
      </figcaption>
     </figure></td>
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <img src="Exp1.prop.v2.r4e16_new.gif" style="width:150px;height:150px;" align="middle">
      <figcaption>
-     Episode 180
-     </figcaption>
-    </figure></td>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
-     <figcaption>
-     Episode 180
-     </figcaption>
-    </figure></td>
-    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
-     <figcaption>
-     Episode 180
+
      </figcaption>
     </figure></td>
 
 
-  </tr>
+     <th> &emsp; </th>
 
-  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
-    <th> &emsp;&emsp;&emsp; </th>
-    <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Execution</th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-
-
-  </tr>
-
-  <tr>
-    <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="ex2ep180.gif" style="width:150px;height:150px;" align="middle"></center>
+     <center><img style="display:block" src="demo_reach_0deg_h_s.gif" style="width:150px;height:150px;" align="middle"></center>
      <figcaption>
-     Episode 180
+
      </figcaption>
     </figure></td>
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="ex2ep180.gif" style="width:150px;height:150px;" align="middle">
+     <img src="Exp1.Prop.M1.r0e17_new.gif" style="width:150px;height:150px;" align="middle">
      <figcaption>
-     Episode 180
+
      </figcaption>
     </figure></td>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-    <th> &emsp;&emsp;&emsp; </th>
-
   </tr>
 
 </table>
