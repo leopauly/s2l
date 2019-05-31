@@ -440,7 +440,116 @@ Demo
   </tr>
 </table>
 
+<!--- ---------------------------------------------------------------------------------------- ---->
 
+<h4><b> Experiment 4: Sweeping (real robot) </b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - BG</th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="sweep_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp4V1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp4BG.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="sweep_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp4V2.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+</table>
+
+<!--- ---------------------------------------------------------------------------------------- ----
+
+<h4><b> Experiment 5: Striking (real robot) </b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - BG</th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="sweep_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp4V1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp4BG.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="sweep_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="Exp4V2.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+
+</table>
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 </font>
