@@ -30,7 +30,7 @@ Seeing to learn (S2l) is an computer vision-robotics project currently ongoing a
 </font>
 
 <!--- ---------------------------------------------------------------------------------------- ---->
-<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ----
 
 
 <p align="centre"><h3> One shot observation learning using visual activity features </h3></p>
@@ -52,32 +52,10 @@ that the proposed method can be used to learn tasks from
 a single demonstration under varying conditions of viewpoints,
 object properties, morphology of manipulators and scene backgrounds.<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
 </p>
+</font>
 
 <!--- ---------------------------------------------------------------------------------------- ----
-
-<h4><b> Experiment 1: Reaching a target</b> </h4>
-<figure>
- <img src="ex1demo1.gif" style="width:300px;height:300px;" alt="@leopauly">
- <figcaption>
-Demo
- </figcaption>
-</figure>
-
-<figure>
- <img src="ex1ep1.gif" style="width:300px;height:300px;" alt="@leopauly">
- <figcaption>
- Episode 1
- </figcaption>
-</figure>
-
-<figure>
- <img src="ex1ep115_v2.gif" style="width:300px;height:300px;" alt="@leopauly">
- <figcaption>
- Episode 115
- </figcaption>
-</figure>
-
-<!--- ---------------------------------------------------------------------------------------- ---->
+<font face="Georgia" size="4" line-height:10>
 
 <h4><b> Experiment 1: Reaching a target (Simulation)</b> </h4>
 <table style="display:inline-block; border:10px; !important">
@@ -167,7 +145,7 @@ Demo
   </tr>
 </table>
 
-<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ----
 <h4><b> Experiment 2: Pushing an object (Simulation)</b> </h4>
 <table style="display:inline-block; border:10px; !important">
 
@@ -257,7 +235,7 @@ Demo
   </tr>
 </table>
 
-<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ----
 
 <h4><b> Experiment 2: Pushing an object (real robot) </b> </h4>
 <table style="display:inline-block; border:10px; !important">
@@ -348,7 +326,7 @@ Demo
   </tr>
 </table>
 
-<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ----
 
 <h4><b> Experiment 3: Hammering (real robot) </b> </h4>
 <table style="display:inline-block; border:10px; !important">
@@ -440,7 +418,7 @@ Demo
   </tr>
 </table>
 
-<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ----
 
 <h4><b> Experiment 4: Sweeping (real robot) </b> </h4>
 <table style="display:inline-block; border:10px; !important">
@@ -518,41 +496,40 @@ Demo
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="sweep_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="hitting_v1.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="Exp4V1.gif" style="width:120px;height:120px;" align="middle">
+     <img src="Exp5V1.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
 
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="Exp4BG.gif" style="width:120px;height:120px;" align="middle">
+     <img src="Exp5BG.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="sweep_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="hitting_v2.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:0px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="Exp4V2.gif" style="width:120px;height:120px;" align="middle">
+     <img src="Exp5V2.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
   </tr>
-
 </table>
 
-<!--- ---------------------------------------------------------------------------------------- ---->
 </font>
+<!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
 <h3><b>Publications</b></h3>

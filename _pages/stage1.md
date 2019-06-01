@@ -1,0 +1,515 @@
+---
+layout: splash
+permalink: /my_docs/stage1
+author_profile:
+comments:
+---
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+<p align="centre"><h3> One shot observation learning using visual activity features </h3></p>
+<font face="Georgia" size="4" line-height:10>
+<h4><b>Abstract: </b> </h4>
+<p align="justify">
+Observation learning is the process of learning
+a task by observing an expert demonstrator. We present a
+robust observation learning method for robotic systems. Our
+principle contributions are in introducing a one shot learning
+method where only a single demonstration is needed for
+learning and in proposing a novel feature extraction method
+for extracting unique activity features from the demonstration.
+Reward values are then generated from these demonstrations.
+We use a learning algorithm with these rewards to learn the
+controls for a robotic manipulator to perform the demonstrated
+task. With simulation and real robot experiments, we show
+that the proposed method can be used to learn tasks from
+a single demonstration under varying conditions of viewpoints,
+object properties, morphology of manipulators and scene backgrounds.<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
+</p>
+</font>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+<font face="Georgia" size="4" line-height:10>
+
+<h4><b> Experiment 1: Reaching a target (Simulation)</b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - Obj1</th>
+    <th style="text-align:center">Learned execution - BG</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/demo_reach_0deg_new.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp1.V1.Proposed.r2.e14_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp1.Prop.C1.r2.e02_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp1.prop.B1.r1e19_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+    <th style="text-align:center">Learned execution - Obj2</th>
+    <th> &emsp; </th>
+
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- M</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/demo_reach_180deg_new.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp1.prop.v2.r4e16_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp1.prop.C2.r3e07_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+     <th> &emsp; </th>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/demo_reach_0deg_h_s.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp1.Prop.M1.r0e17_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+  </tr>
+</table>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+<h4><b> Experiment 2: Pushing an object (Simulation)</b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;</th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - Obj1</th>
+
+    <th style="text-align:center">Learned execution - BG</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;</th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/Demo_push_0deg.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2.Prop.V1.r3e03_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/E2C1prop.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/E2B0prop.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+    <th style="text-align:center">Learned execution - Obj2</th>
+    <th> &emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- M</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/Demo_push_180deg.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/prop_v1_run0_ep6.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/prop_c2_black.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+     <th> &emsp; </th>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/Demo_push_0deg)huma.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2.Porposed.M1.r3.e14.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+</table>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+<h4><b> Experiment 2: Pushing an object (real robot) </b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - Obj1</th>
+    <th style="text-align:center">Learned execution - BG</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/Demo_real_push_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2V1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2_C1_0deg_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2BG_new.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+    <th style="text-align:center">Learned execution - Obj2</th>
+    <th> &emsp; </th>
+
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- M</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/Demo_real_push_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2V2.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2_C2_180deg.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+     <th> &emsp; </th>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/Demo_real_push_v1_human.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2M1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+
+     </figcaption>
+    </figure></td>
+  </tr>
+</table>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+<h4><b> Experiment 3: Hammering (real robot) </b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - Obj1</th>
+    <th style="text-align:center">Learned execution - Obj2</th>
+    <th style="text-align:center">Learned execution- M</th>
+    <th style="text-align:center">Learned execution - BG</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/hammer_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp3V1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp2Obj1_0deg.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp3Obj2_0deg.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp3M1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp3BG.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+  </tr>
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp; </th>
+    <th> &emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+
+
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp; </th>
+    <th> &emsp; </th>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/hammer_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp3V2.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+
+     <th> &emsp; </th>
+
+
+
+  </tr>
+</table>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+<h4><b> Experiment 4: Sweeping (real robot) </b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - BG</th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/sweep_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp4V1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp4BG.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/sweep_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp4V2.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+  </tr>
+</table>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+<h4><b> Experiment 5: Striking (real robot) </b> </h4>
+<table style="display:inline-block; border:10px; !important">
+
+  <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution - V1</th>
+    <th style="text-align:center">Learned execution - BG</th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th style="text-align:center">Demonstration</th>
+    <th style="text-align:center">Learned execution- V2</th>
+  </tr>
+
+  <tr>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <th> &emsp;&emsp;&emsp; </th>
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <center><img style="display:block" src="/hitting_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp5V1.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp5BG.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+    <th> &emsp;&emsp;&emsp; </th>
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/hitting_v2.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="/Exp5V2.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+  </tr>
+
+</table>
+
+</font>
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
