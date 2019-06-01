@@ -176,20 +176,8 @@
 <font face="Georgia" size="4" line-height:10="">
 <h4><b>Abstract: </b> </h4>
 <p align="justify">
-Observation learning is the process of learning
-a task by observing an expert demonstrator. We present a
-robust observation learning method for robotic systems. Our
-principle contributions are in introducing a one shot learning
-method where only a single demonstration is needed for
-learning and in proposing a novel feature extraction method
-for extracting unique activity features from the demonstration.
-Reward values are then generated from these demonstrations.
-We use a learning algorithm with these rewards to learn the
-controls for a robotic manipulator to perform the demonstrated
-task. With simulation and real robot experiments, we show
-that the proposed method can be used to learn tasks from
-a single demonstration under varying conditions of viewpoints,
-object properties, morphology of manipulators and scene backgrounds.<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
+Observation learning is the process of learning a task by observing an expert demonstrator. Our principal contribution is a one-shot learning method for robot manipulation tasks in which only a single demonstration is required. The key idea is to encode the demonstration in an activity space defined by a previously trained activity classifier. The distance between this encoding and equivalent encodings from trials of a robot performing the same task provides a reward function supporting iterative learning of task completion by the robotic manipulator. We use reinforcement learning for experiments with a simulated robotic manipulator, and stochastic trajectory optimisation for experiments with a real robotic manipulator.
+We show that the proposed method can be used to learn tasks from a single demonstration under varying conditions of viewpoints, object properties, morphology of manipulators and scene backgrounds.<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
 </p>
 </font>
 
