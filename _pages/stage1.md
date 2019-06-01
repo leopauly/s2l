@@ -50,25 +50,25 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./demo_reach_0deg_new.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../demo_reach_0deg_new.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp1.V1.Proposed.r2.e14_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp1.V1.Proposed.r2.e14_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp1.Prop.C1.r2.e02_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp1.Prop.C1.r2.e02_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp1.prop.B1.r1e19_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp1.prop.B1.r1e19_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -88,19 +88,19 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
   <tr>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./demo_reach_180deg_new.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../demo_reach_180deg_new.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp1.prop.v2.r4e16_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp1.prop.v2.r4e16_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp1.prop.C2.r3e07_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp1.prop.C2.r3e07_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -108,13 +108,13 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
      <th> &emsp; </th>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./demo_reach_0deg_h_s.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../demo_reach_0deg_h_s.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
 
      </figcaption>
     </figure></td>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp1.Prop.M1.r0e17_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp1.Prop.M1.r0e17_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
 
      </figcaption>
@@ -140,27 +140,27 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp;</th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./Demo_push_0deg.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../Demo_push_0deg.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2.Prop.V1.r3e03_new.gif" style="width:120px;height:120px;" align="middle">
-     <figcaption>
-     </figcaption>
-    </figure></td>
-
-
-    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./E2C1prop.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2.Prop.V1.r3e03_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./E2B0prop.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../E2C1prop.gif" style="width:120px;height:120px;" align="middle">
+     <figcaption>
+     </figcaption>
+    </figure></td>
+
+
+    <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
+     <img src="./../E2B0prop.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -179,19 +179,19 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
   <tr>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./Demo_push_180deg.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../Demo_push_180deg.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./prop_v1_run0_ep6.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../prop_v1_run0_ep6.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./prop_c2_black.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../prop_c2_black.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -199,13 +199,13 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
      <th> &emsp; </th>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./Demo_push_0deg)huma.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../Demo_push_0deg)huma.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2.Porposed.M1.r3.e14.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2.Porposed.M1.r3.e14.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -230,26 +230,26 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./Demo_real_push_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../Demo_real_push_v1.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2V1.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2V1.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2_C1_0deg_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2_C1_0deg_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2BG_new.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2BG_new.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -269,19 +269,19 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
   <tr>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./Demo_real_push_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../Demo_real_push_v2.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
 
      </figcaption>
     </figure></td>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2V2.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2V2.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2_C2_180deg.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2_C2_180deg.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -289,13 +289,13 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
      <th> &emsp; </th>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./Demo_real_push_v1_human.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../Demo_real_push_v1_human.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
 
      </figcaption>
     </figure></td>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2M1.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2M1.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
 
      </figcaption>
@@ -321,38 +321,38 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
   <tr>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./hammer_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../hammer_v1.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp3V1.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp3V1.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp2Obj1_0deg.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp2Obj1_0deg.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp3Obj2_0deg.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp3Obj2_0deg.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp3M1.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp3M1.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp3BG.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp3BG.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -376,12 +376,12 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
     <th> &emsp; </th>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./hammer_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../hammer_v2.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp3V2.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp3V2.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -418,32 +418,32 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./sweep_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../sweep_v1.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp4V1.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp4V1.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp4BG.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp4BG.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./sweep_v2.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../sweep_v2.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp4V2.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp4V2.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -473,20 +473,20 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp;&emsp;&emsp; </th>
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <center><img style="display:block" src="./hitting_v1.gif" style="width:120px;height:120px;" align="middle"></center>
+     <center><img style="display:block" src="./../hitting_v1.gif" style="width:120px;height:120px;" align="middle"></center>
      <figcaption>
      </figcaption>
     </figure></td>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp5V1.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp5V1.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp5BG.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp5BG.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
@@ -494,14 +494,14 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
     <th> &emsp;&emsp;&emsp; </th>
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./hitting_v2.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../hitting_v2.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
 
 
     <td style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;" align="center"><figure>
-     <img src="./Exp5V2.gif" style="width:120px;height:120px;" align="middle">
+     <img src="./../Exp5V2.gif" style="width:120px;height:120px;" align="middle">
      <figcaption>
      </figcaption>
     </figure></td>
