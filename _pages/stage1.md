@@ -24,7 +24,7 @@ We show that the proposed method can be used to learn tasks from a single demons
 <font face="Georgia" size="4" line-height:10>
 <h4><b>Overview: </b> </h4>
 <p align="center">
-<video width="512" height="320" autoplay loop>
+<video width="512" height="320" controls autoplay loop>
   <source src="./../Humanoids_Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
