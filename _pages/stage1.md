@@ -20,6 +20,26 @@ We show that the proposed method can be used to learn tasks from a single demons
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
+
+<font face="Georgia" size="4" line-height:10>
+<h4><b>Overview: </b> </h4>
+<p align="center">
+<video width="320" height="240" controls>
+  <source src="./../Humanoids_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video autoplay controls width="512" height="300">
+<source src='./../Humanoids_Video.mp4' type='video/mp4;codecs="mp4v.20.8, samr"'>
+Your browser does not support the video element.
+</video>
+</p>
+</font>
+
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ---->
+
+
+
 <font face="Georgia" size="4" line-height:10>
 
 <h4><b> Experiment 1: Reaching a target (Simulation)</b> </h4>
