@@ -13,7 +13,7 @@ comments:
 <h4><b>Abstract: </b> </h4>
 <p align="justify">
 Observation learning is the process of learning a task by observing an expert demonstrator. Our principal contribution is a one-shot learning method for robot manipulation tasks in which only a single demonstration is required. The key idea is to encode the demonstration in an activity space defined by a previously trained activity classifier. The distance between this encoding and equivalent encodings from trials of a robot performing the same task provides a reward function supporting iterative learning of task completion by the robotic manipulator. We use reinforcement learning for experiments with a simulated robotic manipulator, and stochastic trajectory optimisation for experiments with a real robotic manipulator.
-We show that the proposed method can be used to learn tasks from a single demonstration under varying conditions of viewpoints, object properties, morphology of manipulators and scene backgrounds.<a href="https://arxiv.org/pdf/1810.07483.pdf"> [view paper] </a>
+We show that the proposed method can be used to learn tasks from a single demonstration under varying conditions of viewpoints, object properties, morphology of manipulators and scene backgrounds.<a href="https://arxiv.org/abs/1810.07483"> [view paper] </a>
 </p>
 </font>
 
