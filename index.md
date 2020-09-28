@@ -35,7 +35,7 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
 <!--- ---------------------------------------------------------------------------------------- ---->
 
 <font face="Georgia" size="4">
-<h3><b>Publications</b></h3>
+<b>Publications</b>
 </font>
 <font face="Georgia" size="3">
 
