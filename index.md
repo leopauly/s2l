@@ -12,6 +12,7 @@ height: 1000px;
 width: 20px;
 }
     figure {
+     display: inline-block;
      margin-top: 1em;
      margin-bottom: 1em;
      margin-left: 4px;
