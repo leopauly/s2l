@@ -11,6 +11,17 @@ comments:
 <p align="centre"><h3> O2A: One-shot Observational learning with Action vectors </h3></p>
 </font>
 
+<font face="Georgia" size="4">
+<h4><b>Abstract: </b> </h4>
+<p align="justify">
+Results of robotic experiments. 
+
+</a>
+</p>
+</font>
+
+
+
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ----
 <font face="Georgia" size="4">
@@ -47,9 +58,9 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Learned execution - V1</th>
-    <th style="text-align:center">Learned execution - Obj1</th>
-    <th style="text-align:center">Learned execution - BG</th>
+    <th style="text-align:center">Learned policy execution - V1</th>
+    <th style="text-align:center">Learned policy  execution - Obj1</th>
+    <th style="text-align:center">Learned policy execution - BG</th>
   </tr>
 
   <tr>
