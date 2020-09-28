@@ -24,7 +24,7 @@ We present O<sub>2</sub>A, a novel method for learning to perform robotic manipu
 <font face="Georgia" size="4">
 <h3><b>II. Results: </b> </h3>
 <p align="justify">
-Presenting performance of O<sub>2</sub>A in the our robotic experiments. Video clips of the demonstrations and execution of correspoding learned optimal policy (for simulation experiment) or optimal sequence obtained (for real robot experiment).Results shown for action vectors extracted from pool5 layer of NN:UCF101. 
+We present the performance of O<sub>2</sub>A in the robotic experiments. Video clips of the demonstration and execution of correspoding learned optimal policy (for simulation experiment) or optimal sequence obtained (for real robot experiment) are given below. Results are shown for action vectors extracted from pool5 layer of NN:UCF101 model. 
 
 </p>
 </font>
