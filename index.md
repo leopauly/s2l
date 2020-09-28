@@ -8,7 +8,7 @@ header:
 
 <style media="screen" type="text/css">
 .portrait {
-height: 9000px;
+height: 1000px;
 width: 20px;
 }
     figure {
@@ -34,7 +34,9 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
+<font face="Georgia" size="3">
 <h3><b>Publications</b></h3>
+</font>
 <font face="Georgia" size="3">
 
 [1]Leo Pauly, Wisdom C. Agboh, David C. Hogg, Raul Fuentes,‘One-shot observation learning using visual activity features’, <i>3rd UK robotics manipulation workshop </i>, 2019.<br/>
@@ -75,8 +77,8 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
  <figure>
  <img src="raul.jpg" style="width:100px;height:120px;" alt="@Dr.Raul Fuentes">
  <figcaption>
- <a href="https://engineering.leeds.ac.uk/staff/673/raul_fuentes">Dr.Raul Fuentes</a> <br />
- Professor <br />
+ <a href="https://engineering.leeds.ac.uk/staff/673/raul_fuentes">Prof.Raul Fuentes</a> <br />
+ Professor of Infrastructure Engineering<br />
  Univeristy of Leeds
  </figcaption>
  </figure>
