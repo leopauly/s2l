@@ -23,9 +23,11 @@ width: 20px;
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<font face="Georgia" size="4" line-height:10>
+<font face="Georgia" size="4">
 <p align="justify">
-Seeing to learn (S2l) is an computer vision-robotics project currently ongoing at University of Leeds, which is aimed at developing  observation learning methods for robotics systems. It addresses the inability of current robotic systems to learn from human demonstrations. The project envisions a future where robots could acquire new skills by just observing humans perform a task or even by watching online tutorial videos of demonstrations. In future the robots equipped with these learning methods could be applied in several real world conditions ranging from home to work environments such as construction sites where it could learn to perform the relevant tasks of drilling holes, hammering nails or screwing a bolt just by observing other workers.
+  
+Seeing to learn (S2l) project aims to develop observational learning approaches for robotic systems. It addresses the inability of current systems to learn new tasks solely from third person demonstrations directly or from online videos.  The project envisions a future, where robots equipped with observational learning learn to aquire new skills and abilities like human beings. 
+
 </p>
 </font>
 
@@ -34,7 +36,7 @@ Seeing to learn (S2l) is an computer vision-robotics project currently ongoing a
 
 
 <p align="centre"><h3> One shot observation learning using visual activity features </h3></p>
-<font face="Georgia" size="4" line-height:10>
+<font face="Georgia" size="4">
 <h4><b>Abstract: </b> </h4>
 <p align="justify">
 Observation learning is the process of learning
