@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 author_profile: false
 comments: #true
 header:
@@ -34,7 +34,7 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<font face="Georgia" size="3">
+<font face="Georgia" size="4">
 <h3><b>Publications</b></h3>
 </font>
 <font face="Georgia" size="3">
