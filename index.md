@@ -554,18 +554,7 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
  <img src="leo.jpg" style="width:100px;height:120px;" alt="@leopauly">
  <figcaption>
  <a href="https://leopauly.github.io">Leo Pauly</a> <br />
-(2017-present)<br />
- PhD Student <br />
- Univeristy of Leeds
- </figcaption>
- </figure>
-
- <figure>
- <img src="muha.png" style="width:100px;height:120px;" alt="@leopauly">
- <figcaption>
- <a href="https://www.kaykanloo.com">Mohammad Kaykanloo</a> <br />
- (Nov - Dec 2017)<br />
- Msc student <br />
+ PhD Student | Visual AI <br />
  Univeristy of Leeds
  </figcaption>
  </figure>
@@ -584,7 +573,7 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
  <img src="raul.jpg" style="width:100px;height:120px;" alt="@Dr.Raul Fuentes">
  <figcaption>
  <a href="https://engineering.leeds.ac.uk/staff/673/raul_fuentes">Dr.Raul Fuentes</a> <br />
- Associate Professor <br />
+ Professor <br />
  Univeristy of Leeds
  </figcaption>
  </figure>
