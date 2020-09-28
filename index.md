@@ -73,7 +73,7 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
  <img src="hogg.jpg" style="width:120px;height:120px;" alt="@Prof.David Hogg">
  <figcaption>
  <a href="https://engineering.leeds.ac.uk/staff/84/Professor_David_Hogg">Prof.David Hogg</a> <br />
- Professor of Artificial Intelligence <br />
+ Artificial Intelligence <br />
  Univeristy of Leeds
  </figcaption>
  </figure>
@@ -82,7 +82,7 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
  <img src="raul.jpg" style="width:100px;height:120px;" alt="@Dr.Raul Fuentes">
  <figcaption>
  <a href="https://engineering.leeds.ac.uk/staff/673/raul_fuentes">Prof.Raul Fuentes</a> <br />
- Professor of Infrastructure Engineering<br />
+ Infrastructure Engineering<br />
  Univeristy of Leeds
  </figcaption>
  </figure>
