@@ -280,7 +280,7 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp; </th>
 
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution- M</th>
+    <th style="text-align:center">Optimal sequence <br> execution- M</th>
   </tr>
 
   <tr>
@@ -423,11 +423,11 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp;&emsp;&emsp; </th>
 
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution - V1</th>
-    <th style="text-align:center">Optimal sequence execution - BG</th>
+    <th style="text-align:center">Optimal sequence <br> execution - V1</th>
+    <th style="text-align:center">Optimal sequence <br> execution - BG</th>
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution- V2</th>
+    <th style="text-align:center">Optimal sequence <br> execution- V2</th>
   </tr>
 
   <tr>
@@ -478,11 +478,11 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp;&emsp;&emsp; </th>
 
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution - V1</th>
-    <th style="text-align:center">Optimal sequence execution - BG</th>
+    <th style="text-align:center">Optimal sequence <br> execution - V1</th>
+    <th style="text-align:center">Optimal sequence <br> execution - BG</th>
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution- V2</th>
+    <th style="text-align:center">Optimal sequence <br> execution- V2</th>
   </tr>
 
   <tr>
