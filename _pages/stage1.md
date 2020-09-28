@@ -8,7 +8,7 @@ comments:
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 <font face="Georgia" size="4">
-<p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp; O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
+<p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
 <font face="Georgia" size="4">
