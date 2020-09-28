@@ -8,11 +8,11 @@ comments:
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 <font face="Georgia" size="4">
-<p style="text-align:center"><h2> O2A: One-shot Observational learning with Action vectors </h2></p>
+<p style="text-align:center"><h2> O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
 <font face="Georgia" size="4">
-<h3><b>I. Abstract: </b> </h3>
+<h3><b>I. Overview: </b> </h3>
 <p align="justify">
  
 We present O<sub>2</sub>A, a novel method for learning to perform robotic manipulation tasks from a single (one-shot) third-person demonstration. To our knowledge, it is the first time this has been done for a single demonstration. The key novelty lies in pre-training a feature extractor for creating a perceptual representation for actions called <i>'action vectors'</i>. We pre-train a 3D-CNN action vector extractor as an action classifier on a generic action dataset.  The action vectors from the observed third-person demonstration and trial robot executions are used to generate rewards for reinforcement learning of the demonstrated task. We report on experiment in simulation and on a real robot, with changes in viewpoint of observation, properties of the objects involved, scene background and morphology of the manipulator between the demonstration and the learning domains. O<sub>2</sub>A outperforms the baseline approaches under different domain shifts and has comparable performance with Oracle. 
