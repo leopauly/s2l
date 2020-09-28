@@ -546,7 +546,7 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
 <!--- ---------------------------------------------------------------------------------------- ---->
 
 <h3><b>Team</b></h3>
-<font face="Georgia" size="4" line-height:10>
+<font face="Georgia" size="4">
 <div>
 <center>
 
@@ -577,17 +577,10 @@ object properties, morphology of manipulators and scene backgrounds.<a href="htt
  Univeristy of Leeds
  </figcaption>
  </figure>
+ 
 </center>
 </div>
 </font>
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
-
-
-<h3><b>Downloads</b></h3>
-<font face="Georgia" size="4" line-height:10>
-<p>
-The <b>code</b> and <b>datasets</b> being used in this project will be made available soon.
-</p>
-</font>
