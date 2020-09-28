@@ -8,18 +8,26 @@ comments:
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 <font face="Georgia" size="4">
-<p align="centre"><h3> O2A: One-shot Observational learning with Action vectors </h3></p>
+<p align="centre"><h2> O2A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
 <font face="Georgia" size="4">
-<h4><b>Abstract: </b> </h4>
+<h3><b>I. Abstract: </b> </h3>
 <p align="justify">
-Results of robotic experiments. 
+ 
+We present O<sub>2</sub>A, a novel method for learning to perform robotic manipulation tasks from a single (one-shot) third-person demonstration. To our knowledge, it is the first time this has been done for a single demonstration. The key novelty lies in pre-training a feature extractor for creating a perceptual representation for actions called \lq \textit{action vectors}\rq. We pre-train a 3D-CNN action vector extractor as an action classifier on a generic action dataset.  The action vectors from the observed third-person demonstration and trial robot executions are used to generate rewards for reinforcement learning of the demonstrated task. We report on experiment in simulation and on a real robot, with changes in viewpoint of observation, properties of the objects involved, scene background and morphology of the manipulator between the demonstration and the learning domains. O\textsubscript{2}A outperforms the baseline approaches under different domain shifts and has comparable performance with Oracle. 
 
-</a>
 </p>
 </font>
 
+
+<font face="Georgia" size="4">
+<h3><b>II. Results: </b> </h3>
+<p align="justify">
+Presenting performance of O<sub>2</sub>A in the our robotic experiments. Video clips of the demonstrations and execution of correspoding learned optimal policy (for simulation experiment) or optimal sequence obtained (for real robot experiment).Results shown for action vectors extracted from pool5 layer of NN:UCF101. 
+
+</p>
+</font>
 
 
 <!--- ---------------------------------------------------------------------------------------- ---->
@@ -99,7 +107,7 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp; </th>
 
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal policy execution- M</th>
+    <th style="text-align:center">Optimal policy <br> execution- M</th>
   </tr>
 
   <tr>
@@ -150,7 +158,7 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th style="text-align:center">Optimal policy <br> execution - V1</th>
     <th style="text-align:center">Optimal policy <br> execution - Obj1</th>
 
-    <th style="text-align:center">Optimal policy execution - BG</th>
+    <th style="text-align:center">Optimal policy <br> execution - BG</th>
   </tr>
 
   <tr>
