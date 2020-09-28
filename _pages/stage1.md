@@ -58,9 +58,9 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Learned policy execution - V1</th>
-    <th style="text-align:center">Learned policy  execution - Obj1</th>
-    <th style="text-align:center">Learned policy execution - BG</th>
+    <th style="text-align:center">Optimal policy <br> execution - V1</th>
+    <th style="text-align:center">Optimal policy <br> execution - Obj1</th>
+    <th style="text-align:center">Optimal policy <br> execution - BG</th>
   </tr>
 
   <tr>
@@ -94,8 +94,8 @@ We show that the proposed method can be used to learn tasks from a single demons
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal policy execution- V2</th>
-    <th style="text-align:center">Optimal policy execution - Obj2</th>
+    <th style="text-align:center">Optimal policy <br> execution- V2</th>
+    <th style="text-align:center">Optimal policy <br> execution - Obj2</th>
     <th> &emsp; </th>
 
     <th style="text-align:center">Demonstration</th>
@@ -147,8 +147,8 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp;</th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal policy execution - V1</th>
-    <th style="text-align:center">Optimal policy execution - Obj1</th>
+    <th style="text-align:center">Optimal policy <br> execution - V1</th>
+    <th style="text-align:center">Optimal policy <br> execution - Obj1</th>
 
     <th style="text-align:center">Optimal policy execution - BG</th>
   </tr>
@@ -186,11 +186,11 @@ We show that the proposed method can be used to learn tasks from a single demons
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal policy execution- V2</th>
-    <th style="text-align:center">Optimal policy execution - Obj2</th>
+    <th style="text-align:center">Optimal policy <br> execution- V2</th>
+    <th style="text-align:center">Optimal policy <br> execution - Obj2</th>
     <th> &emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal policy execution- M</th>
+    <th style="text-align:center">Optimal policy <br> execution- M</th>
   </tr>
 
   <tr>
@@ -238,9 +238,9 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp;&emsp;&emsp; </th>
     <th> &emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution - V1</th>
-    <th style="text-align:center">Optimal sequence execution - Obj1</th>
-    <th style="text-align:center">Optimal sequence execution - BG</th>
+    <th style="text-align:center">Optimal sequence <br> execution - V1</th>
+    <th style="text-align:center">Optimal sequence <br> execution - Obj1</th>
+    <th style="text-align:center">Optimal sequence <br> execution - BG</th>
   </tr>
 
   <tr>
@@ -275,8 +275,8 @@ We show that the proposed method can be used to learn tasks from a single demons
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution- V2</th>
-    <th style="text-align:center">Optimal sequence execution - Obj2</th>
+    <th style="text-align:center">Optimal sequence <br> execution- V2</th>
+    <th style="text-align:center">Optimal sequence <br> execution - Obj2</th>
     <th> &emsp; </th>
 
     <th style="text-align:center">Demonstration</th>
@@ -328,11 +328,11 @@ We show that the proposed method can be used to learn tasks from a single demons
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
     <th> &emsp;&emsp;&emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution - V1</th>
-    <th style="text-align:center">Optimal sequence execution - Obj1</th>
-    <th style="text-align:center">Optimal sequence execution - Obj2</th>
-    <th style="text-align:center">Optimal sequence execution- M</th>
-    <th style="text-align:center">Optimal sequence execution - BG</th>
+    <th style="text-align:center">Optimal sequence <br> execution - V1</th>
+    <th style="text-align:center">Optimal sequence <br> execution - Obj1</th>
+    <th style="text-align:center">Optimal sequence <br> execution - Obj2</th>
+    <th style="text-align:center">Optimal sequence <br> execution- M</th>
+    <th style="text-align:center">Optimal sequence <br> execution - BG</th>
   </tr>
 
   <tr>
@@ -382,7 +382,7 @@ We show that the proposed method can be used to learn tasks from a single demons
     <th> &emsp; </th>
     <th> &emsp; </th>
     <th style="text-align:center">Demonstration</th>
-    <th style="text-align:center">Optimal sequence execution- V2</th>
+    <th style="text-align:center">Optimal sequence <br> execution- V2</th>
 
 
   </tr>
