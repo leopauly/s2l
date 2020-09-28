@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 author_profile: false
 comments: #true
 header:
@@ -34,10 +34,10 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<font face="Georgia" size="4">
+<font face="Times" size="4">
 <h3><b>Publications</b></h3>
 </font>
-<font face="Georgia" size="3">
+<font face="Times" size="3">
 
 [1]Leo Pauly, Wisdom C. Agboh, David C. Hogg, Raul Fuentes,‘One-shot observation learning using visual activity features’, <i>3rd UK robotics manipulation workshop </i>, 2019.<br/>
 [2]Leo Pauly, Wisdom C. Agboh, Mohamed Abdellatif, David C. Hogg, Raul Fuentes, 'One-Shot Observation Learning', <i>ESMRDO:IROS 2018 Workshop</i>, 2018.<br/>
@@ -50,7 +50,9 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
+<font face="Times" size="4">
 <h3><b>Team</b></h3>
+</font>
 <font face="Georgia" size="4">
 <div>
 <center>
