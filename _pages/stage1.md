@@ -8,7 +8,7 @@ comments:
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 <font face="Georgia" size="4">
-<p align="centre"><h2> O2A: One-shot Observational learning with Action vectors </h2></p>
+<p style="text-align:center"="centre"><h2> O2A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
 <font face="Georgia" size="4">
