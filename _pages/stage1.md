@@ -7,9 +7,13 @@ comments:
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
+<font face="Georgia" size="4">
+<p align="centre"><h3> O2A: One-shot Observational learning with Action vectors </h3></p>
+</font>
 
-<p align="centre"><h3> One shot observation learning using visual activity features </h3></p>
-<font face="Georgia" size="4" line-height:10>
+<!--- ---------------------------------------------------------------------------------------- ---->
+<!--- ---------------------------------------------------------------------------------------- ----
+<font face="Georgia" size="4">
 <h4><b>Abstract: </b> </h4>
 <p align="justify">
 Observation learning is the process of learning a task by observing an expert demonstrator. Our principal contribution is a one-shot learning method for robot manipulation tasks in which only a single demonstration is required. The key idea is to encode the demonstration in an activity space defined by a previously trained activity classifier. The distance between this encoding and equivalent encodings from trials of a robot performing the same task provides a reward function supporting iterative learning of task completion by the robotic manipulator. We use reinforcement learning for experiments with a simulated robotic manipulator, and stochastic trajectory optimisation for experiments with a real robotic manipulator.
@@ -18,10 +22,8 @@ We show that the proposed method can be used to learn tasks from a single demons
 </font>
 
 <!--- ---------------------------------------------------------------------------------------- ---->
-<!--- ---------------------------------------------------------------------------------------- ---->
-
-
-<font face="Georgia" size="4" line-height:10>
+<!--- ---------------------------------------------------------------------------------------- ----
+<font face="Georgia" size="4">
 <h4><b>Overview: </b> </h4>
 <p align="center">
 <video width="512" height="320" controls autoplay loop>
@@ -36,9 +38,9 @@ We show that the proposed method can be used to learn tasks from a single demons
 
 
 
-<font face="Georgia" size="4" line-height:10>
+<font face="Georgia" size="4">
 
-<h4><b> Experiment 1: Reaching a target (Simulation)</b> </h4>
+<h4><b> Reaching a target (Simulation)</b> </h4>
 <table style="display:inline-block; border:10px; !important">
 
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
@@ -127,7 +129,7 @@ We show that the proposed method can be used to learn tasks from a single demons
 </table>
 
 <!--- ---------------------------------------------------------------------------------------- ---->
-<h4><b> Experiment 2: Pushing an object (Simulation)</b> </h4>
+<h4><b> Pushing an object (Simulation)</b> </h4>
 <table style="display:inline-block; border:10px; !important">
 
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
@@ -218,7 +220,7 @@ We show that the proposed method can be used to learn tasks from a single demons
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<h4><b> Experiment 2: Pushing an object (real robot) </b> </h4>
+<h4><b> Pushing an object (real robot) </b> </h4>
 <table style="display:inline-block; border:10px; !important">
 
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
@@ -309,7 +311,7 @@ We show that the proposed method can be used to learn tasks from a single demons
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<h4><b> Experiment 3: Hammering (real robot) </b> </h4>
+<h4><b> Hammering (real robot) </b> </h4>
 <table style="display:inline-block; border:10px; !important">
 
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
@@ -401,7 +403,7 @@ We show that the proposed method can be used to learn tasks from a single demons
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<h4><b> Experiment 4: Sweeping (real robot) </b> </h4>
+<h4><b> Sweeping (real robot) </b> </h4>
 <table style="display:inline-block; border:10px; !important">
 
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
@@ -456,7 +458,7 @@ We show that the proposed method can be used to learn tasks from a single demons
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<h4><b> Experiment 5: Striking (real robot) </b> </h4>
+<h4><b> Striking (real robot) </b> </h4>
 <table style="display:inline-block; border:10px; !important">
 
   <tr style="border-bottom: none;padding:25px; border-width:0px; margin:0px;  !important;">
