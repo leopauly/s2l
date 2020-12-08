@@ -7,7 +7,7 @@ main:
   #  url: /my_docs/team
   #- title: "Downloads"
   #  url: /my_docs/downloads
-  - title: "O<sub>2</sub>A"
+  - title: "O<b><sub>2</sub></b>A"
     url: /my_docs/stage1
   #- title: "Press"
   #  url: /my_docs/press
