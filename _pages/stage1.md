@@ -11,7 +11,7 @@ comments:
 <p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <h3><b>I. Overview: </b> </h3>
 <p align="justify">
  
@@ -21,7 +21,7 @@ We present O<sub>2</sub>A, a novel method for learning to perform robotic manipu
 </font>
 
 
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <h3><b>II. Results: </b> </h3>
 <p align="justify">
 We present the performance of O<sub>2</sub>A in the robotic experiments. Video clips of the demonstration and execution of correspoding learned optimal policy (for simulation experiment) or optimal sequence obtained (for real robot experiment) are given below. Results are shown for action vectors extracted from pool5 layer of NN:UCF101 model. 
