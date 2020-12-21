@@ -8,8 +8,8 @@ header:
 
 <style media="screen" type="text/css">
 .portrait {
-height: 900px;
-width: 20px;
+height: 800px;
+width: 18px;
 }
     figure {
      display: inline-block;
