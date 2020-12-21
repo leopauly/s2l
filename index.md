@@ -8,7 +8,7 @@ header:
 
 <style media="screen" type="text/css">
 .portrait {
-height: 800px;
+height: 600px;
 width: 18px;
 }
     figure {
