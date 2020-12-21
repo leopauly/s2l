@@ -15,7 +15,7 @@ width: 20px;
      display: inline-block;
      margin-top: 1em;
      margin-bottom: 1em;
-     margin-left: 4px;
+     margin-left: 1px;
      margin-right: 4px;
       }
 </style>
