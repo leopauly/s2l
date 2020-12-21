@@ -6,19 +6,7 @@ header:
   image: /assets/images/obs3.png
 ---
 
-<style media="screen" type="text/css">
-.portrait {
-height: 600px;
-width: 18px;
-}
-    figure {
-     display: inline-block;
-     margin-top: 1em;
-     margin-bottom: 1em;
-     margin-left: 10px;
-     margin-right: 4px;
-      }
-</style>
+
 
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
