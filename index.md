@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 comments: #true
 header:
-  image: /assets/images/obs8.png
+  image: /assets/images/obs3.png
 ---
 
 <style media="screen" type="text/css"> 
