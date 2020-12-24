@@ -14,7 +14,7 @@ figure { display: inline-block; margin-top: 1em; margin-bottom: 1em; margin-left
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 
-<font-family: 'PT Sans', sans-serif>
+<font style="PT Sans', sans-serif">
 <p align="justify">
   
 Seeing to learn (S2l) project aims to develop observational learning approaches for robotic systems. It addresses the inability of current systems to learn new tasks solely from third person demonstrations directly or from online videos.  The project envisions a future, where robots equipped with observational learning learn to aquire new skills and abilities like human beings. 
