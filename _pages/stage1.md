@@ -20,9 +20,16 @@ We present O<sub>2</sub>A, a novel method for learning to perform robotic manipu
 </p>
 </font>
 
+<font face="Georgia" size="4">
+<h3><b>II. Dataset </b> </h3>
+<p align="justify">
+The Leeds Manipulation dataset (LMD) can be downloaded from <a href="https://leeds365-my.sharepoint.com/:f:/g/personal/cnlp_leeds_ac_uk/EnSNo3ut5d9DhTbHWWE2760Bz99Y5AaxXlNXOlkJGoMopQ?e=KNQk5p">here</a>.
+
+</p>
+</font>
 
 <font face="Georgia" size="4">
-<h3><b>II. Results: </b> </h3>
+<h3><b>III. Results: </b> </h3>
 <p align="justify">
 We present the performance of O<sub>2</sub>A in the robotic experiments. Video clips of the demonstration and execution of correspoding learned optimal policy (for simulation experiment) or optimal sequence obtained (for real robot experiment) are given below. Results are shown for action vectors extracted from pool5 layer of NN:UCF101 model. 
 
