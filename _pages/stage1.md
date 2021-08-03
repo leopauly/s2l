@@ -16,8 +16,8 @@ comments:
 <p align="justify">
 L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, "O2A: One-shot Observational
 learning with Action vectors", at Frontiers in Robotics and AI, Vol.8, pp.239, 2021. 
-<a href="https://core.ac.uk/download/pdf/96765657.pdf"> [view paper] </a>
-<a href="https://github.com/leopauly/ISARC-2017"> [view code] </a>
+<a href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full"> [paper]</a>
+<a href="https://docs.google.com/presentation/d/1pMMhYbRxoYhzjQuysP6tOBuzaTrlubu1/edit?usp=sharing&ouid=101733491474689445191&rtpof=true&sd=true"> [slides]</a>
 <br> 
 <h3><b>Workshops</b> </h3>
 "One-shot observation learning", at IROS Workshop: Examining Sensing Modalities
