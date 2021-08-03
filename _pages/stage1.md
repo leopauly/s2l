@@ -14,7 +14,7 @@ comments:
 
 <font face="Georgia" size="4">
 <h3><b>Journal</b> </h3>
-<p style="width:500px;height:100px;border:1px solid #000; align="justify">
+<p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
 L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, "O2A: One-shot Observational
 learning with Action vectors", at Frontiers in Robotics and AI, Vol.8, pp.239, 2021. 
 <a href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full"> [paper]</a>
