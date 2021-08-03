@@ -5,13 +5,15 @@ author_profile:
 comments:
 ---
 
+.boxed{background-color: lightblue; width: 200px; padding: 25px;}
+
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 <font face="Georgia" size="4">
 <p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
-<div background-color: lightblue; width: 200px; padding: 25px;>
+<div class="boxed">
 
 <font face="Georgia" size="4">
 <h3><b>Journal</b> </h3>
