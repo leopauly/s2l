@@ -11,6 +11,8 @@ comments:
 <p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
+<div background-color: lightblue; width: 200px; padding: 25px;>
+
 <font face="Georgia" size="4">
 <h3><b>Journal</b> </h3>
 <p align="justify">
@@ -25,6 +27,7 @@ for Robust and Dexterous manipulation, IROS, 2018.<br>
 "One-shot observation learning using visual activity features", at 3rd UK robotics
 manipulation workshop, 2019.<br> 
 "One-shot observational learning", at AI @ Leeds workshop, 2019<br> 
+ </div 
  
 </p>
 </font>
