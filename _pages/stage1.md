@@ -12,15 +12,14 @@ comments:
 </font>
 
 <font face="Georgia" size="4">
-<!-- <h3><b>I. Overview: </b> </h3> -->
+<h3><b>Journal</b> </h3>
 <p align="justify">
-<b>Journal</b>
-L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, ‘’O2A: One-shot Observational
-learning with Action vectors”, at Frontiers in Robotics and AI, Vol.8, pp.239, 2021. 
+L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, "O2A: One-shot Observational
+learning with Action vectors", at Frontiers in Robotics and AI, Vol.8, pp.239, 2021. 
 <a href="https://core.ac.uk/download/pdf/96765657.pdf"> [view paper] </a>
 <a href="https://github.com/leopauly/ISARC-2017"> [view code] </a>
- 
-<b>Workshops</b>
+<br> 
+<h3><b>Workshops</b> </h3>
 "One-shot observation learning", at IROS Workshop: Examining Sensing Modalities
 for Robust and Dexterous manipulation, IROS, 2018.
 "One-shot observation learning using visual activity features", at 3rd UK robotics
