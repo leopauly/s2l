@@ -9,15 +9,15 @@ comments:
 <!--- ---------------------------------------------------------------------------------------- ---->
 <!--- ---------------------------------------------------------------------------------------- ---->
 <font face="Georgia" size="4">
-<p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
+<p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; O<sub>2</sub>A: One-shot Observational Learning with Action Vectors </h2></p>
 </font>
 
 <font face="Georgia" size="4">
 <p style="border:3px; border-style:solid; border-radius: 25px; border-color:#4d94ff; padding: 1em;">
 
 <b>Journal</b><br> 
-L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, "O2A: One-shot Observational
-learning with Action vectors", at Frontiers in Robotics and AI, Vol.8, pp.239, 2021. 
+L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, "O2A: One-Shot Observational
+Learning with Action Vectors", at Frontiers in Robotics and AI, Vol.8, pp.239, 2021. 
 <a href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full"> [paper]</a>
 <a href="https://docs.google.com/presentation/d/1pMMhYbRxoYhzjQuysP6tOBuzaTrlubu1/edit?usp=sharing&ouid=101733491474689445191&rtpof=true&sd=true"> [slides]</a>
 <a href="./../O2A.bib" download>
