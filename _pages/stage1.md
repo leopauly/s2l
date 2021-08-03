@@ -13,7 +13,7 @@ comments:
 </font>
 
 <font face="Georgia" size="4">
-<p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
+<p style="border:3px; border-style:solid; border-radius: 25px; border-color:#0000FF; padding: 1em;">
 
 <h3><b>Journal</b> </h3>
 L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, "O2A: One-shot Observational
