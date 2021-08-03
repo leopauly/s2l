@@ -12,14 +12,16 @@ comments:
 <p style="text-align:center"><h2> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; O<sub>2</sub>A: One-shot Observational learning with Action vectors </h2></p>
 </font>
 
-<div style="width:500px;height:100px;border:1px solid #000;">
 <font face="Georgia" size="4">
 <h3><b>Journal</b> </h3>
-<p align="justify">
+<p style="width:500px;height:100px;border:1px solid #000; align="justify">
 L. Pauly, W. C. Agboh, D. C. Hogg, and R. Fuentes, "O2A: One-shot Observational
 learning with Action vectors", at Frontiers in Robotics and AI, Vol.8, pp.239, 2021. 
 <a href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full"> [paper]</a>
 <a href="https://docs.google.com/presentation/d/1pMMhYbRxoYhzjQuysP6tOBuzaTrlubu1/edit?usp=sharing&ouid=101733491474689445191&rtpof=true&sd=true"> [slides]</a>
+<a href="bibtex" download>
+  <img src=""./../O2A.bib" alt="bibtex">
+</a>
 <br> 
 <h3><b>Workshops</b> </h3>
 "One-shot observation learning", at IROS Workshop: Examining Sensing Modalities
@@ -27,7 +29,6 @@ for Robust and Dexterous manipulation, IROS, 2018.<br>
 "One-shot observation learning using visual activity features", at 3rd UK robotics
 manipulation workshop, 2019.<br> 
 "One-shot observational learning", at AI @ Leeds workshop, 2019<br> 
-</div> 
  
 </p>
 </font>
