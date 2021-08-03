@@ -21,10 +21,10 @@ learning with Action vectors", at Frontiers in Robotics and AI, Vol.8, pp.239, 2
 <br> 
 <h3><b>Workshops</b> </h3>
 "One-shot observation learning", at IROS Workshop: Examining Sensing Modalities
-for Robust and Dexterous manipulation, IROS, 2018.
+for Robust and Dexterous manipulation, IROS, 2018.<br> 
 "One-shot observation learning using visual activity features", at 3rd UK robotics
-manipulation workshop, 2019.
-"One-shot observational learning", at AI @ Leeds workshop, 2019
+manipulation workshop, 2019.<br> 
+"One-shot observational learning", at AI @ Leeds workshop, 2019<br> 
  
 </p>
 </font>
