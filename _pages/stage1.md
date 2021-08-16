@@ -48,7 +48,7 @@ We present O<sub>2</sub>A, a novel method for learning to perform robotic manipu
 <font face="Georgia" size="4">
 <h3><b>II. Dataset </b> </h3>
 <p align="justify">
-The Leeds Manipulation Dataset (LMD) is available from: <a href="cnlp@leeds.ac.uk">Contact</a>.
+The Leeds Manipulation Dataset (LMD) is available from: <a href="mailto:cnlp@leeds.ac.uk?subject = LMD Dataset&body = Please enter your details here">Contact</a>.
 
 </p>
 </font>
